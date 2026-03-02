@@ -34,8 +34,6 @@ Singleton OOP architecture
 
 Printable report support
 
-Clean extensible structure (/includes, /admin, /core)
-
 🧮 Calculation Logic
 
 For each product:
